@@ -10,7 +10,7 @@ const plusJakarta = Plus_Jakarta_Sans({
   display: "swap",
 });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+const siteUrl = "https://atcsltd.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -26,6 +26,7 @@ export const metadata: Metadata = {
     "RDB services",
     "RRA services",
     "digital services Rwanda",
+    "Managing Director: IT Daniel BYISHIMO",
   ],
   openGraph: {
     title: company.name,
