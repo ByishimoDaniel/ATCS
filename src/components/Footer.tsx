@@ -138,7 +138,7 @@ export function Footer() {
         </div>
       </div>
       <div className="border-t border-white/10 py-6 text-center text-xs text-slate-500">
-        © 2026 {company.name}. All Rights Reserved.
+       IT Daniel BYISHIMO © 2026 {company.name}. All Rights Reserved.
       </div>
     </footer>
   );
