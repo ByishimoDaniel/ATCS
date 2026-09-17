@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     siteName: company.name,
   },
   icons: {
-    icon: "/favicon.svg",
+    icon: "/icon.png",
   },
 };
 
