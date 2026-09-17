@@ -35,9 +35,9 @@ export const metadata: Metadata = {
     locale: "en_RW",
     siteName: company.name,
   },
-  icons: {
-    icon: "/icon.png",
-  },
+icons: {
+  icon: "/icon.png?v=2",
+},
 };
 
 const jsonLd = {
